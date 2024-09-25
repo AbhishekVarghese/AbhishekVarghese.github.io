@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Abhishek Varghese / Site Title"
+title                    : "Abhishek Varghese"
 title_separator          : "-"
 name                     : &name "Abhishek Varghese"
-description              : &description "PhD Student, UMass Amherst\n Software Engineering and Machine Learning"
+description              : &description "personal description"
 url                      : "https://abhishekvarghese.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AbhishekVarghese/abhishekvarghese.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Abhishek Varghese"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD Student, UMass Amherst\nSoftware Engineering and Machine Learning"
   location         : "Amherst, MA"
   employer         : "University of Massachusetts Amherst"
   uri              : # URL
