@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a second year PhD Student at UMass Amherst, working with Dr. Yuriy Brun at the [Laboratory of Advanced Software Engineering Research](https://groups.cs.umass.edu/laser/). My primary area of research focusses on automating formal verification and safety of software systems. I'm also working on the area of fairness in Machine learning. 
+Hi, I am a second year PhD Student at UMass Amherst, working with Dr. Yuriy Brun at the [Laboratory of Advanced Software Engineering Research](https://groups.cs.umass.edu/laser/). My primary area of research focusses on automating formal verification and safety of software systems. I'm also working on the area of fairness in Machine learning.
+
+
+
 <!-- 
 A data-driven personal website
 ======
